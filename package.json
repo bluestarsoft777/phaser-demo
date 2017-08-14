@@ -1,0 +1,11 @@
+{
+  "name": "salt-bae",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {},
+  "author": "Davor Badrov",
+  "license": "MIT",
+  "dependencies": {
+    "phaser": "^2.6.2"
+  }
+}
